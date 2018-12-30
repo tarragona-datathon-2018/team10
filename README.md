@@ -19,9 +19,8 @@ Research for mimic-III, eicu, and icu23 medical databases
 
 Created a Bare Metal Plattform to continue research locally:
 
-* A Laptop as a prototype for Inference
+* A Laptop as a prototype for Inference   
 [![alt text](https://www.passmark.com/baselines/V9/images/113731726464.png)](https://www.passmark.com/baselines/V9/display.php?id=113731726464)
-
 
 * A Nvidia Development Plattform Jetson TX2 to train model
 [![alt text](https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsontx2/TX2_Module_170203_0017_TRANSP_2000px.png)](https://developer.nvidia.com/embedded/buy/jetson-tx2-devkit)
