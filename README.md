@@ -1,5 +1,5 @@
 # TGN_Datathon2018
-Research for MIMIC-III (making locally in progress), eICU(2), and icu23(not now, future) medical databases from Physionet Colaborative Research Database(1).
+Research for MIMIC-III(1)(making locally in progress), eICU(2), and icu23(not now, future) medical databases from Physionet(0) Colaborative Research Database(1).
 
 ##TARRAGONA DATATHON, November 2018, team_10 activities
 ### Impact on fluid overload on the evolution of patients with septic shock
@@ -31,8 +31,11 @@ Created a secured and certified system undel Debian Linux, with lvm2 crypted sto
  
  References:
  
-(1) Physionet Network:
+(0) Physionet Network:
 Goldberger AL, Amaral LAN, Glass L, Hausdorff JM, Ivanov PCh, Mark RG, Mietus JE, Moody GB, Peng C-K, Stanley HE. PhysioBank, PhysioToolkit, and PhysioNet: Components of a New Research Resource for Complex Physiologic Signals. Circulation 101(23):e215-e220 [Circulation Electronic Pages; http://circ.ahajournals.org/content/101/23/e215]; 2000 (June 13).
+
+(1)  MIMIC-III Clinical Database is 1.4 (4 September 2016; 46,520 subjects). For further information, please visit the MIMIC website: http://mimic.physionet.org/
+MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). (DOI: 10.1038/sdata.2016.35). Available from: http://www.nature.com/articles/sdata201635
  
 (2) eICU Collaborative Research Database:
 (eICU-CRD) is v2.0 (17 May 2018). For further information, please visit the eICU-CRD website: http://eicu-crd.mit.edu/
