@@ -23,3 +23,4 @@ Created a Bare Metal Plattform to continue research locally:
 [![alt text](https://www.passmark.com/baselines/V9/images/113731726464.png)](https://www.passmark.com/baselines/V9/display.php?id=113731726464)
 * A Nvidia Development Platform Jetson TX2 to train model[![alt text](https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsontx2/TX2_Module_170203_0017_TRANSP_2000px.png)](https://developer.nvidia.com/embedded/buy/jetson-tx2-devkit)
 Created a secured and certified system undel Debian Linux, with lvm2 crypted storage, Certificated&Registered data access. Limited quota&audited downloads. Fontend on Jupyter NB connected on csv's and MariaDB columnar database to improve efficiency.
+ First of goals for this project is guarantee as much as possible the privacy and confidentiality of the process information with which you work, and notify any data association that may be able to skip this restriction. At this time it has been assumed.
