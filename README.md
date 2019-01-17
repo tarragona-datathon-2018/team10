@@ -13,6 +13,8 @@ Research for MIMIC-III (making locally in progress), eICU(2), and icu23(not now,
 * Santiago Frias: Data Scientist / Statistics-Models
 
 
+
+
 ### According to the attached document, the concept blocks are structured and the works to be carried out are recursively displayed
 ![alt text](https://github.com/tarragona-datathon-2018/team10/blob/master/Project01.png)
 ### Example of preliminary analysis: ScatterPlot of id patient numbers (x axis) to timestamp events (y axis)
@@ -24,7 +26,7 @@ Created a Bare Metal Plattform to continue research locally:
 [![alt text](https://www.passmark.com/baselines/V9/images/113731726464.png)](https://www.passmark.com/baselines/V9/display.php?id=113731726464)
 * A Nvidia Development Platform Jetson TX2 to train model[![alt text](https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsontx2/TX2_Module_170203_0017_TRANSP_2000px.png)](https://developer.nvidia.com/embedded/buy/jetson-tx2-devkit)
 
-Created a secured and certified system undel Debian Linux, with lvm2 crypted storage, Certificated&Registered data access. Limited quota&audited downloads. Fontend on Jupyter NB connected on csv's and MariaDB columnar database to improve efficiency.
+Created a secured and certified system undel Debian Linux, with lvm2 crypted storage, Certificated&Registered data access. Limited quota&audited downloads. Frontend on Jupyter NB connected on csv's and MariaDB SQL columnar database to improve efficiency.
  First of goals for this project is guarantee as much as possible the privacy and confidentiality of the process information with which you work, and notify any data association that may be able to skip this restriction. At this time it has been assumed.
  
  References:
@@ -34,5 +36,4 @@ Goldberger AL, Amaral LAN, Glass L, Hausdorff JM, Ivanov PCh, Mark RG, Mietus JE
  
 (2) eICU Collaborative Research Database:
 (eICU-CRD) is v2.0 (17 May 2018). For further information, please visit the eICU-CRD website: http://eicu-crd.mit.edu/
-
 Pollard TJ, Johnson AEW, Raffa JD, Celi LA, Mark RG, Badawi O.The eICU Collaborative Research Database, a freely available multi-center database for critical care research. Scientific Data, 5:180178, Sept. 2018. (doi:10.1038/sdata.2018.178)
