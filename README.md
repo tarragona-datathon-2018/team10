@@ -29,7 +29,7 @@ Created a Bare Metal Plattform to continue research locally:
 Created a secured and certified system undel Debian Linux, with lvm2 crypted storage, Certificated&Registered data access. Limited quota&audited downloads. Frontend on Jupyter NB connected on csv's and MariaDB SQL columnar database to improve efficiency.
  First of goals for this project is guarantee as much as possible the privacy and confidentiality of the process information with which you work, and notify any data association that may be able to skip this restriction. At this time it has been assumed.
  
- Activities Development process detailed on [StatDev.md;https://github.com/tarragona-datathon-2018/team10/blob/master/StatDev.md]
+ Activities Development process detailed on [StatDev.md(https://github.com/tarragona-datathon-2018/team10/blob/master/StatDev.md)]
  
  References:
  
