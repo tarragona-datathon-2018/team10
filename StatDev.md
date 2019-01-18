@@ -13,3 +13,14 @@ Analyze data samples to identify features and distribution of cases type, and fi
 Make Sample to evaluate impact, (e.g. with volume gains greater than 10%).
 
 If meaningful, determine a cut-off value of volume gain, after the third day of admission, or until the first week on all hospitalization.
+
+
+
+Good practices:
+
+Analytics (simply look at a dataset and summarize what you see) cares about what’s here), has only one golden rule: stick to the data and don’t go beyond it. Some people seem to think that whenever they analyze data, the universe owes them insights beyond the facts.
+
+Statistics cares more about what isn’t, is trickier. Subtle things matter when you do battle with the unknown.
+
+Option A: we learned nothing interesting. Null hypothesis.
+Option B:Does the evidence that we collected make our null hypothesis look ridiculous?Yes...Alternative hypothesis.
