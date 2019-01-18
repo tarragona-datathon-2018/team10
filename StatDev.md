@@ -22,5 +22,13 @@ Analytics (simply look at a dataset and summarize what you see) cares about what
 
 Statistics cares more about what isn’t, is trickier. Subtle things matter when you do battle with the unknown.
 
+
+Analytics( simply look at a dataset and summarize what you see) cares about what’s here,
+has only one golden rule: stick to the data and don’t go beyond it. Some people seem to think
+that whenever they analyze data, the universe owes them insights beyond the facts.
+
+Statistics cares more about what isn’t, is trickier. Subtle things matter when you do battle with the unknown.
+Statistics is the science of changing your mind. Making decisions based on facts (parameters) is hard enough as it is, but sometimes, we don’t even have the facts we need. Instead, what we know (our sample) is different from what we wish we knew (our population).
+ That’s what it means to have uncertainty. Remember!:
 Option A: we learned nothing interesting. Null hypothesis.
 Option B:Does the evidence that we collected make our null hypothesis look ridiculous?Yes...Alternative hypothesis.
