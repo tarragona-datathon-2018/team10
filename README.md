@@ -12,8 +12,13 @@ Research for MIMIC-III(1)(making locally in progress), eICU(2), and icu23(not no
 * Laia Labad: Clinician, 
 * Santiago Frias: Data Scientist / Statistics-Models
 
+##TARRAGONA HJ23 ICU Team, February 2019, Post applied research
+### Impact on fluid overload on the evolution of patients with septic shock
 
-
+* Marianna Polini: Data Scientist / SQL-Databases, 
+* Christian Villavicencio: Clinician, 
+* Iulen Leache Irigoyen: Clinician,
+* Santiago Frias: Data Scientist / Statistics-Models
 
 ### According to the attached document, the concept blocks are structured and the works to be carried out are recursively displayed
 ![alt text](https://github.com/tarragona-datathon-2018/team10/blob/master/Project01.png)
